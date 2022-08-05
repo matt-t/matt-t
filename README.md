@@ -1,5 +1,5 @@
 ### Welcome to my Github!
-I'm Matthew (he/him) currently a third year studying computer science at the University of Waterloo and business at Wilfrid Laurier University. 
+I'm Matthew and I am currently a third year studying computer science at the University of Waterloo and business at Wilfrid Laurier University. 
 
 
 
