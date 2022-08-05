@@ -1,4 +1,7 @@
-### Hi there 👋
+### About Me
+Weclome to my Github! I'm Matthew (he/him) a third year student studying computer science at the University of Waterloo and business at Wilfrid Laurier University. 
+
+
 
 <!--
 **matt-t/matt-t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
