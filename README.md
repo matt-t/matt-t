@@ -10,7 +10,7 @@ I am a fifth year student studying computer science at the University of Waterlo
 - 2024 New Grad FT Opportunities
 
 ### 👨‍💻 Previously worked on
-- automate deployment and improve delivery speed using AWS tools at [Amazon] 
+- automate deployment and improve product delivery speed using AWS tools at [Amazon](https://hiring.amazon.ca/#/)
 - building web applications for merchants to accept cryptocurrency at [EukaPay](https://eukapay.com/)
 - integrating money movement features for small banks at [NCR](https://www.ncr.com/)
 - front office solutions for brokerages and their agents at [Schedulock](https://www.schedulock.com/)
