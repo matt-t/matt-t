@@ -4,13 +4,13 @@
 <a href="https://twitter.com/matthewtam01"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> 
 <a href="mailto:mtam1222@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a> 
 
-I am a third year student studying computer science at the University of Waterloo and business at Wilfrid Laurier University. 
+I am a fifth year student studying computer science at the University of Waterloo and business at Wilfrid Laurier University. 
 
 ### 📋 Currently preparing for
-- 2023 internships
-- exchange at the University of Birmingham in September 2022
+- 2024 New Grad FT Opportunities
 
 ### 👨‍💻 Previously worked on
+- automate deployment and improve delivery speed using AWS tools at [Amazon] 
 - building web applications for merchants to accept cryptocurrency at [EukaPay](https://eukapay.com/)
 - integrating money movement features for small banks at [NCR](https://www.ncr.com/)
 - front office solutions for brokerages and their agents at [Schedulock](https://www.schedulock.com/)
